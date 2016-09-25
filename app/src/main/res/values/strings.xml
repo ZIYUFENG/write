@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">write</string>
+    <string name="title_activity_novel_list">小说列表</string>
 </resources>
